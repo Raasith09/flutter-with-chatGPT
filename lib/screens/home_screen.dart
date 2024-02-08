@@ -59,7 +59,7 @@ class _HomeScreenState extends State<HomeScreen> {
       headers: {
         "Content-Type": "application/json",
         "Authorization":
-            "Bearer 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",
+            "Bearer "Enteryour key",
       },
       body: json.encode(body),
     );
